@@ -1,0 +1,19 @@
+{
+  "editor.tabSize": 2,
+  "editor.suggest.shareSuggestSelections": true,
+  "editor.accessibilityPageSize": 8,
+  "window.zoomLevel": 0,
+  "editor.mouseWheelZoom": true,
+  "editor.parameterHints.enabled": false,
+  "eslint.probe": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "html",
+    "vue",
+    "markdown",
+    "react"
+  ],
+  "eslint.quiet": true
+}
