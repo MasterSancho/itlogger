@@ -15,5 +15,10 @@
     "markdown",
     "react"
   ],
-  "eslint.quiet": true
+  "eslint.quiet": true,
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#5B0A2F",
+    "titleBar.activeBackground": "#7F0F41",
+    "titleBar.activeForeground": "#FFFCFD"
+  }
 }
