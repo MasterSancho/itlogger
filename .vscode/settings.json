@@ -2,7 +2,7 @@
   "editor.tabSize": 2,
   "editor.suggest.shareSuggestSelections": true,
   "editor.accessibilityPageSize": 8,
-  "window.zoomLevel": -1,
+  "window.zoomLevel": 0,
   "editor.mouseWheelZoom": true,
   "editor.parameterHints.enabled": false,
   "eslint.probe": [

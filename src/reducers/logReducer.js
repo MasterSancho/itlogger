@@ -21,7 +21,7 @@ export default (state = initialState, action) => {
   switch (action.type) {
     case GET_LOGS:
       return {
-        ...false,
+        ...state,
         logs: action.payload,
         loading: false,
       };
