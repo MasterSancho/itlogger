@@ -20,6 +20,13 @@
       "attention": false,
       "tech": "Sara Wilson",
       "date": "2020-05-05T08:21:39.417Z"
+    },
+    {
+      "message": "Repair main server",
+      "attention": false,
+      "tech": "Alex Maltsev",
+      "date": "2020-05-05T12:49:10.207Z",
+      "id": 4
     }
   ],
   "techs": [
@@ -37,6 +44,16 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Alex",
+      "lastName": "Maltsev",
+      "id": 4
+    },
+    {
+      "firstName": "Piter",
+      "lastName": "Piterson",
+      "id": 5
     }
   ]
 }
